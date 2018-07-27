@@ -8,5 +8,5 @@ Will store notes for you on a notes-data.json file.
   - read    Read a note
   - remove  Remove a note
 
-##Options:
+## Options:
   - --help  Show help     
